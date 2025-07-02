@@ -1,14 +1,15 @@
 ---
-title: Markdown Mystery Tour
+title: 'Dev/Data management : Outil de simulation' 
 publishDate: 2020-03-02 00:00:00
 img: /assets/stock-1.jpg
 img_alt: Iridescent ripples of a bright blue and pink liquid
 description: |
   We designed a whodunnit-style game to introduce Markdown formatting. Suspense — suspicion — syntax!
 tags:
-  - Design
+  - Python
+  - Data
   - Dev
-  - User Testing
+  - streamlit
 ---
 
 ## Level-two heading
